@@ -1,0 +1,18 @@
+.login-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-box{
+    width: 400px;
+    min-height: 310px;
+    background: whitesmoke;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+}
+.MuiButtonBase-root{
+    padding: 14px !important;
+}

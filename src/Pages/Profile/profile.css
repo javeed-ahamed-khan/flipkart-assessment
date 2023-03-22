@@ -1,0 +1,20 @@
+.container{
+    height: 70vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.img-container{
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.img-container .img-profile{
+    height: 100%;
+    width: 20rem;
+    border-radius: 50%;
+}
